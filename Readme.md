@@ -20,10 +20,13 @@
  .1 HTML
  .2 CSS
 ## How To Use
+<br>
 HTML
 Vanlige koder.
+<br>
 CSS 
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+<br>
 Youtube
 - https://www.youtube.com/watch?v=phWxA89Dy94
 
