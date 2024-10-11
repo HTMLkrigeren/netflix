@@ -21,15 +21,11 @@
  .2 CSS
 ## How To Use
 HTML
-- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+Vanlige koder.
 CSS 
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 Youtube
-https://www.youtube.com/watch?v=phWxA89Dy94
+- https://www.youtube.com/watch?v=phWxA89Dy94
 
 ## Contact
 - GitHub [HTMLkrigeren](https://github.com/HTMLkrigeren)
