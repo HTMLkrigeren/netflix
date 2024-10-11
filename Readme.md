@@ -1,7 +1,7 @@
 <h1 align="center">NETFLIX ripoff</h1>
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://github.com/HTMLkrigeren/netflix">
       Lenken til prosjektet
     </a>
   </h3>
